@@ -5,7 +5,7 @@ The Student Management System is a web application that allows you to manage stu
 
 ## Usage
 
-**Add a Student**: 
+**Add a Student**:
  Add a new student to the system.
 
 **Delete a Student**: 
