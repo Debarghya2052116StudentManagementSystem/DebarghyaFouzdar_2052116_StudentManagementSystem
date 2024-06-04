@@ -2,5 +2,6 @@
 
 STUDENT MANAGEMENT SYSTEM 
 A management system that will help us in Adding, Deleting, Searching and Updating new or existing Students. 
-Student Information includes Name, EmailID, 
+
+
 
